@@ -5,13 +5,18 @@
 
 # 参考
 乐克乐克
+
 雷曼传奇（ubi art）
+
 [jamboard链接](https://jamboard.google.com/d/1r4bQBeu7XOdTcyxu_pqdn2SLLQd1z6FZrDhYo8z37jk/viewer?f=6)
+
 ## 世界观
 
 **主人公** 可以将远处的物品抓取到自己的层
- **操作** wasd移动，space跳跃，e抓取到自己的层
-  **可以交互的物体** 太阳，风，花瓣，怪物，声音
+
+**操作** wasd移动，space跳跃，e抓取到自己的层
+
+**可以交互的物体** 太阳，风，花瓣，怪物，声音
 
 ## 开发参数
 
